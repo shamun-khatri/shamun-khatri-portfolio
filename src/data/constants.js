@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning especially in Frontend development. I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shamun-khatri",
   resume:
-    "https://drive.google.com/file/d/12vblY0dlW0DV60LvZPD7kNsnjqV6zKmk/view?usp=sharing",
+    "https://drive.google.com/file/d/1LaD0Hh_5h8ZkIK4w9ABF1mgnODRc8SFJ/view",
   linkedin: "https://www.linkedin.com/in/shamun-khatri/",
   twitter: "https://twitter.com/shamunkhatri",
   // insta: "",
