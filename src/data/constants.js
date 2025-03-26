@@ -1,8 +1,8 @@
 export const Bio = {
   name: "Shamun Khatri",
-  roles: ["Frontend Developer", "Programmer"],
+  roles: ["Full-Stack Developer", "Programmer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning especially in Frontend development. I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning especially in Web development. I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shamun-khatri",
   resume:
     "https://drive.google.com/file/d/1qb4NKW2NHemtXCs8Yju8BU_j3Yv72Hsf/view?usp=sharing",
