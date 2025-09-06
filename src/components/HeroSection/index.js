@@ -48,11 +48,11 @@ const HeroSection = () => {
   }, []);
 
   // Use fetched data if available, otherwise fallback to static Bio data
-  const name = bioData?.name || Bio.name;
-  const roles = bioData?.designations || Bio.roles;
-  const description = bioData?.desc || Bio.description;
-  const resumeUrl = bioData?.resumeUrl || Bio.resume;
-  const profileImage = bioData?.profileImage || HeroImg;
+  const name = bioData?.name;
+  const roles = bioData?.designations;
+  const description = bioData?.desc;
+  const resumeUrl = bioData?.resumeUrl;
+  const profileImage = bioData?.profileImage;
 
   if (loading) {
     return (
